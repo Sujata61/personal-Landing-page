@@ -1,0 +1,2 @@
+const benefits = ["Identify the biggest gap in your current marketing", "Understand why inquiries are not converting into customers", "Understand how AI can support your marketing", "Get a clear, customized marketing plan for your business"];
+export default function Benefits() { return <section className="section benefits"><h2>How you benefit</h2><div className="benefit-grid">{benefits.map((benefit, i) => <article className="benefit" key={benefit}><span className="benefit-number">0{i + 1}</span><p>{benefit}</p><span className="check">✓</span></article>)}</div></section>; }
