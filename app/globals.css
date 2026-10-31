@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+.whatsapp{color:#fff;text-decoration:none;display:inline-block;opacity:1;cursor:pointer}.whatsapp:hover{color:#fff;background:#1ebe5d}
+
 /* The Flodesk DOM, action URL, field names, tracking and scripts remain in public/flodesk-embed.html. */
 .flodesk-card{background:#fff;color:var(--ink);padding:34px;border-radius:20px;box-shadow:0 20px 45px #080f223b}.flodesk-host{min-height:250px}.flodesk-host [data-ff-el="root"].ff-6ae0982bffaa2a15068434b1 .ff-6ae0982bffaa2a15068434b1__container{max-width:none;background:transparent}.flodesk-host [data-ff-el="root"].ff-6ae0982bffaa2a15068434b1 .ff-6ae0982bffaa2a15068434b1__form{padding:0;font-family:Arial,Helvetica,sans-serif;text-align:left}.flodesk-host [data-ff-el="root"].ff-6ae0982bffaa2a15068434b1 .ff-6ae0982bffaa2a15068434b1__title,.flodesk-host [data-ff-el="root"].ff-6ae0982bffaa2a15068434b1 .ff-6ae0982bffaa2a15068434b1__subtitle{display:none}.flodesk-host [data-ff-el="root"].ff-6ae0982bffaa2a15068434b1 .ff-6ae0982bffaa2a15068434b1__control{height:52px;padding:14px;border-color:#d7ddea;border-radius:9px;font-size:15px}.flodesk-host [data-ff-el="root"].ff-6ae0982bffaa2a15068434b1 .ff-6ae0982bffaa2a15068434b1__label{padding:14px;font-size:15px}.flodesk-host [data-ff-el="root"].ff-6ae0982bffaa2a15068434b1 .ff-6ae0982bffaa2a15068434b1__field{margin-bottom:16px}.flodesk-host [data-ff-el="root"].ff-6ae0982bffaa2a15068434b1 .ff-6ae0982bffaa2a15068434b1__button{border:0;border-radius:999px;background:var(--brand);padding:16px 22px;font-size:16px;font-weight:700;box-shadow:0 11px 28px #4f46e542}.flodesk-host [data-ff-el="root"].ff-6ae0982bffaa2a15068434b1 .ff-6ae0982bffaa2a15068434b1__button:hover{background:var(--brand-dark)}
 
